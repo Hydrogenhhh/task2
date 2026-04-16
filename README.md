@@ -1,4 +1,5 @@
 # Logistics Data Sorter - Heap Sort Implementation
+## Video Link: https://youtu.be/n1lISAj98iU
 
 A specialized implementation of the **Heap Sort** algorithm using Python and NumPy, designed to synchronize dual-matrix datasets. This tool is ideal for logistics scenarios where shipment metrics must remain linked to specific warehouse metadata during sorting.
 
